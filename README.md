@@ -72,6 +72,7 @@ Web applications and browser-based experiences powered by machine learning or AI
 - [DiogoOrdine/game-eclipse-ai-agent](https://github.com/DiogoOrdine/game-eclipse-ai-agent) `📇` `🏠` – Adaptation of the Eclipse game integrating a YOLOv5n neural network running with TensorFlow.js inside a Web Worker. **by [@DiogoOrdine](https://github.com/DiogoOrdine)**
 - [Douglas-sm/game-flapbird](https://github.com/Douglas-sm/game-flapbird) `📇` `🏠` – Pixel art Flappy Bird game with an AI that trains itself in the browser using Canvas 2D and TensorFlow.js. **by [@Douglas-sm](https://github.com/Douglas-sm)**
 - [me-wsantos/classificacao-tensorflowjs](https://github.com/me-wsantos/AI-Engineer-UNIPDS/tree/75e2183198175ac8610399b1df2752fdef710f42/001-classificacao-tensorflowjs) `📇` `🏠` – Social class classifier neural network trained and executed entirely in the browser using TensorFlow.js, predicting socioeconomic tiers (A–E) based on user-provided attributes. [🌐 Live demo](https://ai-engineer-unipds.onrender.com/) **by [@me-wsantos](https://github.com/me-wsantos)**
+- [rdiegoss/scout](https://github.com/rdiegoss/scout) `📇` `🏠` – AI-powered PWA for local service discovery that uses on-device TensorFlow.js embeddings to rank nearby providers (electricians, plumbers, mechanics) by semantic similarity, geographic proximity, and behavioral compatibility. **by [@rdiegoss](https://github.com/rdiegoss)**
 - [SyanCS/the-speakeasy-chatbot](https://github.com/SyanCS/the-speakeasy-chatbot) `📇` `🏠` – 1920s barkeep chatbot that runs fully in-browser on Chrome's on-device Gemini Nano (Prompt API) — multimodal cocktail suggestions, substitutions, scaling, and drink fixes with no backend or API keys. **by [@SyanCS](https://github.com/SyanCS)**
 - [SyanCS/dr_nala_breed_recommendation](https://github.com/SyanCS/dr_nala_breed_recommendation) `📇` `🏠` – AI-first dog breed recommendation app that trains a TensorFlow compatibility classifier, persists model artifacts in PostgreSQL, and serves ranked recommendations from a browser web worker with a rule-based fallback. **by [@SyanCS](https://github.com/SyanCS)**
 - [thabata-marchi/portuguese-alphabet-game](https://github.com/thabata-marchi/portuguese-alphabet-game) `📇` `🏠` – Pre-literacy educational game for children that teaches the Portuguese alphabet using voice recognition and adaptive AI. **by [@thabata-marchi](https://github.com/thabata-marchi)**
@@ -84,7 +85,7 @@ Projects that connect services, automate workflows, or react to events.
 
 - [mjunior/whatsapp-ai-pix-agent](https://github.com/mjunior/whatsapp-ai-pix-agent) `📇` `🔗` – An AI agent that charges my wife via PIX when she asks for favors on WhatsApp. **by [@mjunior](https://github.com/mjunior)**
 
-
+- [iran-gregorio/project-aegis](https://github.com/iran-gregorio/project-aegis) `📇` `🔗` - An intelligent chatbot designed to analyze sentiment and handle aggression on WhatsApp. ** by [@iran-gregorio](https://github.com/iran-gregorio)**
 
 ---
 
